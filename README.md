@@ -10,7 +10,7 @@ The project workflow is organized in two steps:
 
 #### Repository Structure
 ```
-credit-risk-loan-automation/
+credit_risk_loan_automation/
 ├── README.md
 ├── environment.yml
 ├── data/
